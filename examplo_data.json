@@ -1,0 +1,1493 @@
+{
+    "mg": {
+        "govEstadual": [
+            {
+                "nome": "Indira Xavier",
+                "foto": "./imgs/candidatos/mg/governadores/indira-xavier.jpg",
+                "numero": 80,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/CifkkXrjqz4/",
+                "entrevista": "https://youtu.be/w454jTQm60Y?t=43"
+            },
+            {
+                "nome": "Renata Regina",
+                "foto": "./imgs/candidatos/mg/governadores/renata-regina.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/reel/Cg4ZDxpj-yc/",
+                "entrevista": "https://youtu.be/JaN_aMekwY0?t=32"
+            }
+        ],
+        "senadores": [
+            {
+                "nome": "Sara Azevedo",
+                "foto": "./imgs/candidatos/mg/senadores/sara-azevedo.jpg",
+                "numero": 500,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/CiNciKeAYRU/",
+                "entrevista": "https://youtu.be/R_Fu5xvssms?t=160"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Poliana do MLB",
+                "foto": "./imgs/candidatos/mg/deputades-federais/poliana-do-mlb.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgMstxeuHki/"
+            },
+            {
+                "nome": "Nina Espaguete",
+                "foto": "./imgs/candidatos/mg/deputades-federais/nina-espaguete.jpg",
+                "numero": 2117,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChZ8JltFBQe/",
+                "entrevista": "https://youtu.be/IZi5OX8mPLk?t=871"
+            },
+            {
+                "nome": "Júlia Rocha",
+                "foto": "./imgs/candidatos/mg/deputades-federais/julia-rocha.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChTfPMMOR9c/",
+                "entrevista": "https://youtu.be/O5I89Lj6th0?t=675"
+            },
+            {
+                "nome": "Lívia Flor",
+                "foto": "./imgs/candidatos/mg/deputades-federais/livia-flor.jpg",
+                "numero": 2135,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/Cf_qwPoLeGW/",
+                "entrevista": "https://www.instagram.com/reel/ChI4JaJFUrO/"
+            },
+            {
+                "nome": "Thomas Carrieri",
+                "foto": "./imgs/candidatos/mg/deputades-federais/thomas-carrieri.jpg",
+                "numero": 2188,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChNfUfTpI4F/",
+                "entrevista": "https://youtu.be/EM0mFaJgulU?t=45"
+            },
+            {
+                "nome": "Amaury Alonso",
+                "foto": "./imgs/candidatos/mg/deputades-federais/amaury-alonso.jpg",
+                "numero": 2113,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUhxhguxBP/"
+            },
+            {
+                "nome": "Daniel Cristiano",
+                "foto": "./imgs/candidatos/mg/deputades-federais/daniel-cristiano.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUoBgILGFN/"
+            },
+            {
+                "nome": "Flaviano Dueli",
+                "foto": "./imgs/candidatos/mg/deputades-federais/flaviano-dueli.jpg",
+                "numero": 2199,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CfOQJ7MvYxm/"
+            },
+            {
+                "nome": "Iago Chaves",
+                "foto": "./imgs/candidatos/mg/deputades-federais/iago-chaves.jpg",
+                "numero": 2122,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChssM_1pq0r/"
+            },
+            {
+                "nome": "Margô Inácio",
+                "foto": "./imgs/candidatos/mg/deputades-federais/margo-inacio.jpg",
+                "numero": 2124,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcbminasgerais/"
+            },
+            {
+                "nome": "Jose A. Bernardes (Zulu)",
+                "foto": "./imgs/candidatos/mg/deputades-federais/zulu.jpg",
+                "numero": 2111,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://twitter.com/pcbminas/status/1526545697239097346",
+                "entrevista": "https://youtu.be/cikNbDfbSMw?t=14"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Brenda Mangabeira",
+                "foto": "./imgs/candidatos/mg/deputades-estaduais/brenda-mangabeira.jpg",
+                "numero": 80000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgfZdrMpRh3/"
+            },
+            {
+                "nome": "Mariana Fernandes",
+                "foto": "./imgs/candidatos/mg/deputades-estaduais/mariana-fernandes.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChuiGI7uVOY/"
+            },
+            {
+                "nome": "Thomás Toledo",
+                "foto": "./imgs/candidatos/mg/deputades-estaduais/thomas-toledo.jpg",
+                "numero": 80123,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgShYOEpc5j/"
+            },
+            {
+                "nome": "Duda das Cadeiras",
+                "foto": "./imgs/candidatos/mg/deputades-estaduais/duda-das-cadeiras.jpg",
+                "numero": 21210,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChST4uMLjyV/",
+                "entrevista": "https://www.youtube.com/embed/yVC0vF_7HeY?&start=6376&end=6861&autoplay=true"
+            },
+            {
+                "nome": "Bruno Marota",
+                "foto": "./imgs/candidatos/mg/deputades-estaduais/bruno-marota.jpg",
+                "numero": 21212,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://twitter.com/BrunoMarotaPCB/status/1559582704366133250"
+            },
+            {
+                "nome": "Diego Arthur",
+                "foto": "./imgs/candidatos/mg/deputades-estaduais/diego-arthur.jpg",
+                "numero": 21021,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.facebook.com/diego.arthur.35"
+            }
+        ]
+    },
+    "pa": {
+        "govEstadual": [
+            {
+                "nome": "Adolfo",
+                "foto": "./imgs/candidatos/pa/governadores/adolfo.jpg",
+                "numero": 50,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/CidwjcyJLrS/",
+                "entrevista": "https://youtu.be/9ZTPG3tOWxk?t=6",
+                "votoCritico": {
+                    "fonte": "https://twitter.com/UP80BR/status/1571158328838955008/photo/2",
+                    "partido": "UP"
+                }
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Marinor Brito",
+                "foto": "./imgs/candidatos/pa/deputades-federais/marinor-brito.jpg",
+                "numero": 5050,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/reel/Chr9cZUAKZa/",
+                "entrevista": "https://youtu.be/FLOUQCNrN-E?t=6",
+                "votoCritico": {
+                    "fonte": "https://twitter.com/UP80BR/status/1571158328838955008/photo/2",
+                    "partido": "UP"
+                }
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Raquel Brício",
+                "foto": "./imgs/candidatos/pa/deputades-estaduais/raquel-bricio.jpg",
+                "numero": 80123,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgK9mpdOH95/",
+                "entrevista": "https://youtu.be/XMZLeCcGdOw"
+            }
+        ]
+    },
+    "to": {
+        "depEstadual": [
+            {
+                "nome": "Antônio Marcos",
+                "foto": "./imgs/candidatos/to/deputades-estaduais/antonio-marcos.jpg",
+                "numero": 13333,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUkkthORYq/",
+                "entrevista": "https://youtu.be/wk5Soboc9Jk"
+            }
+        ]
+    },
+    "ro": {
+        "depEstadual": [
+            {
+                "nome": "Lula do Assentamento",
+                "foto": "./imgs/candidatos/ro/deputades-estaduais/lula-do-assentamento.jpg",
+                "numero": 13000,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUlq8Du6pu/",
+                "entrevista": "https://youtu.be/LK6nBpbaano?t=318"
+            }
+        ]
+    },
+    "rr": {
+        "depEstadual": [
+            {
+                "nome": "Job Martins",
+                "foto": "./imgs/candidatos/rr/deputades-estaduais/job-martins.jpg",
+                "numero": 13444,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVvgATubio/"
+            }
+        ]
+    },
+    "pr": {
+        "govEstadual": [
+            {
+                "nome": "Vivi Motta",
+                "foto": "./imgs/candidatos/pr/governadores/vivi-motta.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChSQ6jhA9tr/",
+                "entrevista": "https://youtu.be/jPVNm0QTKcY?t=331"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Vanessa Cristina",
+                "foto": "./imgs/candidatos/pr/deputades-federais/vanessa-cristina.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CgxbDi_rO7p/",
+                "entrevista": "https://youtu.be/jPVNm0QTKcY?t=2224"
+            },
+            {
+                "nome": "Prof. Thiago Ferraiol",
+                "foto": "./imgs/candidatos/pr/deputades-federais/thiago-ferraiol.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/reel/Ch99Qv7gXy9/",
+                "entrevista": "https://youtu.be/PBOUqg5CQDc?t=310"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Renato Freitas",
+                "foto": "./imgs/candidatos/pr/deputades-estaduais/renato-freitas.jpg",
+                "numero": 13123,
+                "partido": "PT",
+                "movimentos": "./imgs/movimentos/pt.svg",
+                "saibaMais": "https://www.instagram.com/reel/CiQU7rlvHip/",
+                "entrevista": "https://youtu.be/9_VxiHRgV9I?t=169"
+            }
+        ]
+    },
+    "rs": {
+        "govEstadual": [
+            {
+                "nome": "Carlos Messalla",
+                "foto": "./imgs/candidatos/rs/governadores/carlos-messalla.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/reel/CiK3x-Rg7OW/",
+                "entrevista": "https://youtu.be/yZeQSHOAsag?t=10"
+            }
+        ],
+        "senadores": [
+            {
+                "nome": "Olívio Dutra",
+                "foto": "./imgs/candidatos/rs/senadores/olivio-dutra.jpg",
+                "numero": 131,
+                "partido": "PT",
+                "movimentos": "./imgs/movimentos/pt.svg",
+                "saibaMais": "https://www.instagram.com/reel/CiGKeOygAn1/",
+                "entrevista": "https://youtu.be/TgA62yU6xGs",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/CiTYVeEL1fh/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Priscila Voigt",
+                "foto": "./imgs/candidatos/rs/deputades-federais/priscila-voigt.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUzT-hlyCs/",
+                "entrevista": "https://youtu.be/bL97KfpRcEc?t=107"
+            },
+            {
+                "nome": "Carlos Vieira",
+                "foto": "./imgs/candidatos/rs/deputades-federais/carlos-vieira.jpg",
+                "numero": 8000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgiNCavuQIk/"
+            },
+            {
+                "nome": "Humberto Matos",
+                "foto": "./imgs/candidatos/rs/deputades-federais/humberto-matos.jpg",
+                "numero": 5040,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/Cifa-4krN1f/",
+                "entrevista": "https://www.twitch.tv/videos/1590013241?t=00h07m09s"
+            },
+            {
+                "nome": "Juh Guerra",
+                "foto": "./imgs/candidatos/rs/deputades-federais/juh-guerra.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CifIXFAOHsU/",
+                "entrevista": "https://youtu.be/QRjHC7WkIwA"
+            },
+            {
+                "nome": "Marcon",
+                "foto": "./imgs/candidatos/rs/deputades-federais/marcon.jpg",
+                "numero": 1355,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChUPXmFjukd/"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Leo Silvestrin",
+                "foto": "./imgs/candidatos/rs/deputades-estaduais/leo-silvestrin.jpg",
+                "numero": 21021,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://twitter.com/LeoSilves/status/1564370107488522240"
+            },
+            {
+                "nome": "Adão Pretto",
+                "foto": "./imgs/candidatos/rs/deputades-estaduais/adao-pretto.jpg",
+                "numero": 13655,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChUnyEwAXt_/"
+            }
+        ]
+    },
+    "se": {
+        "govEstadual": [
+            {
+                "nome": "Aroldo Félix",
+                "foto": "./imgs/candidatos/se/governadores/aroldo-felix.jpg",
+                "numero": 80,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUwJh7rIZ9/",
+                "entrevista": "https://youtu.be/sdLXZplwBgk"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Jennifer Bomfim",
+                "foto": "./imgs/candidatos/se/deputades-federais/jennifer-bomfim.jpg",
+                "numero": 8008,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUy4UDOGFq/"
+            },
+            {
+                "nome": "Vagner Gastão",
+                "foto": "./imgs/candidatos/se/deputades-federais/vagner-gastao.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CeXDpizOCca/"
+            },
+            {
+                "nome": "João Daniel",
+                "foto": "./imgs/candidatos/se/deputades-federais/joao-daniel.jpg",
+                "numero": 1311,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChYUk6ZMD69/"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Rodrigo Cerqueira",
+                "foto": "./imgs/candidatos/se/deputades-estaduais/rodrigo-cerqueira.jpg",
+                "numero": 80000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CifqmT1uxYI/"
+            },
+            {
+                "nome": "Allana Antifa",
+                "foto": "./imgs/candidatos/se/deputades-estaduais/allana-antifa.jpg",
+                "numero": 80123,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChXQrAyOvnx/"
+            }
+        ]
+    },
+    "rn": {
+        "govEstadual": [
+            {
+                "nome": "Danniel Morais",
+                "foto": "./imgs/candidatos/rn/governadores/danniel-morais.jpg",
+                "numero": 50,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/ChALe3VjAS8/",
+                "entrevista": "https://youtu.be/fE01u_EFde8",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/ChfjWaxO-w9/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "senadores": [
+            {
+                "nome": "Marcos do MLB",
+                "foto": "./imgs/candidatos/rn/senadores/marcos-do-mlb.jpg",
+                "numero": 800,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChDx6qfrgb2/"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Juntas Federal",
+                "foto": "./imgs/candidatos/rn/deputades-federais/juntas-federal.jpg",
+                "numero": 5050,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/reel/CiaGnIejpNK/",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/ChfjWaxO-w9/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Thalia Lima",
+                "foto": "./imgs/candidatos/rn/deputades-estaduais/thalia-lima.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUhcqKr_e0/"
+            }
+        ]
+    },
+    "pi": {
+        "depFederal": [
+            {
+                "nome": "Thays Dias",
+                "foto": "./imgs/candidatos/pi/deputades-federais/thays-dias.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVkS0epaMX/"
+            },
+            {
+                "nome": "Edilene Pinho",
+                "foto": "./imgs/candidatos/pi/deputades-federais/edilene-pinho.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcbpiaui/"
+            },
+            {
+                "nome": "Francisco Filho",
+                "foto": "./imgs/candidatos/pi/deputades-federais/francisco-filho.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcbpiaui/"
+            }
+        ]
+    },
+    "pe": {
+        "govEstadual": [
+            {
+                "nome": "Jones Manoel",
+                "foto": "./imgs/candidatos/pe/governadores/jones-manoel.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://twitter.com/jonesmanoel_PCB/status/1537600592385822721",
+                "entrevista": "https://youtu.be/NvFgPjPp5GQ"
+            }
+        ],
+        "senadores": [
+            {
+                "nome": "Eugênia Lima",
+                "foto": "./imgs/candidatos/pe/senadores/eugenia-lima.jpg",
+                "numero": 500,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/ChndJYxAtTx/",
+                "entrevista": "https://youtu.be/NtIfnXzaM94?t=51",
+                "votoCritico": {
+                    "fonte": "https://twitter.com/jonesmanoel_PCB/status/1568280717091639296",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Ludmila Outtes",
+                "foto": "./imgs/candidatos/pe/deputades-federais/ludmila-outtes.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/Cgu3TrDAUEC/",
+                "entrevista": "https://www.youtube.com/watch?v=mQ8MP0UvkOc&t=207s"
+            },
+            {
+                "nome": "Victória Pinheiro",
+                "foto": "./imgs/candidatos/pe/deputades-federais/victoria-pinheiro.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CXcCnMSrTKU/",
+                "entrevista": "https://youtu.be/ijK9tmnWU7g"
+            },
+            {
+                "nome": "Antônio Oxis",
+                "foto": "./imgs/candidatos/pe/deputades-federais/antonio-oxis.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcb.pe/"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Natalia Lúcia",
+                "foto": "./imgs/candidatos/pe/deputades-estaduais/natalia-lucia.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgvFPP4LKbI/",
+                "entrevista": "https://youtu.be/2e3IVCZesyA"
+            },
+            {
+                "nome": "Rafael Wanderley",
+                "foto": "./imgs/candidatos/pe/deputades-estaduais/rafael-wanderley.jpg",
+                "numero": 80000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/Cf6Yj5-uKw6/",
+                "entrevista": "https://youtu.be/LXzXU3vDrSY"
+            },
+            {
+                "nome": "Luiza Melo",
+                "foto": "./imgs/candidatos/pe/deputades-estaduais/luiza-melo.jpg",
+                "numero": 21021,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CaIPYgZpaaB/",
+                "entrevista": "https://youtu.be/OOfeL6Dd7Ws"
+            },
+            {
+                "nome": "Cristiano Romão",
+                "foto": "./imgs/candidatos/pe/deputades-estaduais/cristiano-romao.jpg",
+                "numero": 21000,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcb.pe/"
+            },
+            {
+                "nome": "Rosa Amorim",
+                "foto": "./imgs/candidatos/pe/deputades-estaduais/rosa-amorim.jpg",
+                "numero": 13100,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/p/CharQz5AllY/",
+                "entrevista": "https://www.youtube.com/watch?v=qPcDUx7OcZM"
+            }
+        ]
+    },
+    "pb": {
+        "govEstadual": [
+            {
+                "nome": "Adjany Simplicio",
+                "foto": "./imgs/candidatos/pb/governadores/adjany-simplicio.jpg",
+                "numero": 50,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChUNDg5N2nc/",
+                "entrevista": "https://youtu.be/4yZmtcaFolw?t=168"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Vitória Ohara",
+                "foto": "./imgs/candidatos/pb/deputades-federais/vitoria-ohara.jpg",
+                "numero": 8008,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgWw-Tgr9xY/"
+            },
+            {
+                "nome": "Jozivan Antero",
+                "foto": "./imgs/candidatos/pb/deputades-federais/jozivan-antero.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/Cgbyad9A7Gy/",
+                "entrevista": "https://www.instagram.com/p/ChTFhf-A_GQ/"
+            },
+            {
+                "nome": "Radamés Cândido",
+                "foto": "./imgs/candidatos/pb/deputades-federais/radames.jpg",
+                "numero": 8000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChW9AXAu43M/"
+            }
+        ]
+    },
+    "ma": {
+        "govEstadual": [
+            {
+                "nome": "Frankle Costa",
+                "foto": "./imgs/candidatos/ma/governadores/frankle-costa.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVt5AYONKJ/",
+                "entrevista": "https://youtu.be/Wc9-d2e4Yss?t=1339"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Caetano Costa",
+                "foto": "./imgs/candidatos/ma/deputades-federais/caetano-costa.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/caetanocosta21/",
+                "entrevista": "https://youtu.be/Wc9-d2e4Yss?t=760"
+            },
+            {
+                "nome": "Gato Félix",
+                "foto": "./imgs/candidatos/ma/deputades-federais/gato-felix.jpg",
+                "numero": 2122,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://youtu.be/Wc9-d2e4Yss?t=330"
+            },
+            {
+                "nome": "Dra. Valuzia",
+                "foto": "./imgs/candidatos/ma/deputades-federais/dra-valuzia.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcbmaranhao/"
+            },
+            {
+                "nome": "Vânia do MST",
+                "foto": "./imgs/candidatos/ma/deputades-federais/vania-do-mst.jpg",
+                "numero": 1333,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/reel/CgxU3yDIu8s/",
+                "entrevista": "https://youtu.be/lFsk-mCV5dg?t=120"
+            }
+        ]
+    },
+    "ce": {
+        "govEstadual": [
+            {
+                "nome": "Serley Leal",
+                "foto": "./imgs/candidatos/ce/governadores/serley-leal.jpg",
+                "numero": 80,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUiUDXOytz/",
+                "entrevista": "https://www.youtube.com/watch?v=7JsL7UG5yi8"
+            },
+            {
+                "nome": "Chico Malta",
+                "foto": "./imgs/candidatos/ce/governadores/chico-malta.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChRud_lOXTe/",
+                "entrevista": "https://youtu.be/uUJrI9zsDEM?t=170"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Sued Carvalho",
+                "foto": "./imgs/candidatos/ce/deputades-federais/sued-carvalho.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CcqocmjPBuB/",
+                "entrevista": "https://youtu.be/1NJ4EezS0to"
+            },
+            {
+                "nome": "Edivania Vieira",
+                "foto": "./imgs/candidatos/ce/deputades-federais/edivania-vieira.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChRpWG1OQva/",
+                "entrevista": "https://www.instagram.com/p/ChYE-cFAwPD/"
+            },
+            {
+                "nome": "Roberto Santos",
+                "foto": "./imgs/candidatos/ce/deputades-federais/roberto-santos.jpg",
+                "numero": 2123,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChRud_lOXTe/"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Sarah Preta Simoa",
+                "foto": "./imgs/candidatos/ce/deputades-estaduais/sarah-preta-simoa.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgvOsBjsTNh/"
+            },
+            {
+                "nome": "Missias do MST",
+                "foto": "./imgs/candidatos/ce/deputades-estaduais/missias-do-mst.jpg",
+                "numero": 13123,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUgi1QORRc/",
+                "entrevista": "https://www.instagram.com/reel/Cha2gU4qaCU/"
+            }
+        ]
+    },
+    "ba": {
+        "govEstadual": [
+            {
+                "nome": "Giovani Damico",
+                "foto": "./imgs/candidatos/ba/governadores/giovani-damico.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CgXJg3YLeyP/",
+                "entrevista": "https://youtu.be/Zo2iHCBw5j0?t=4"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Eslane Paixão",
+                "foto": "./imgs/candidatos/ba/deputades-federais/eslane-paixao.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChUge42lrHN/"
+            },
+            {
+                "nome": "Ana Karen",
+                "foto": "./imgs/candidatos/ba/deputades-federais/ana-karen.jpg",
+                "numero": 2110,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/Cdwgl9guLYN/",
+                "entrevista": "https://youtu.be/QvpcIMm5bnk?t=612"
+            },
+            {
+                "nome": "Cheyenne Ayalla",
+                "foto": "./imgs/candidatos/ba/deputades-federais/cheyenne-ayalla.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/Cd8bEZ2rBtm/"
+            },
+            {
+                "nome": "Guilherme Reis",
+                "foto": "./imgs/candidatos/ba/deputades-federais/guilherme-reis.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/Cg69iqpL5n7/"
+            },
+            {
+                "nome": "Valmir Assunção",
+                "foto": "./imgs/candidatos/ba/deputades-federais/valmir-assuncao.jpg",
+                "numero": 1310,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/p/Cha1m3ipO6c/"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Jalicia Muricy Pró Zazá",
+                "foto": "./imgs/candidatos/ba/deputades-estaduais/pro-zaza.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChDe2OYgL3m/"
+            },
+            {
+                "nome": "Lucinha do MST",
+                "foto": "./imgs/candidatos/ba/deputades-estaduais/lucinha-do-mst.jpg",
+                "numero": 13100,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChU98rWIR8O/"
+            }
+        ]
+    },
+    "al": {
+        "govEstadual": [
+            {
+                "nome": "Cicero Albuquerque",
+                "foto": "./imgs/candidatos/al/governadores/cicero-albuquerque.jpg",
+                "numero": 50,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/Chus-gOjMdE/",
+                "entrevista": "https://youtu.be/lUxga-hukG4?t=47",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/ChCzcqULmUh/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Lenilda Luna",
+                "foto": "./imgs/candidatos/al/deputades-federais/lenilda-luna.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUkTy-gT-U/",
+                "entrevista": "https://youtu.be/P2BzwRME2tk?t=132"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Vânia Gomes",
+                "foto": "./imgs/candidatos/al/deputades-estaduais/vania-gomes.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChV9nVHO-P8/"
+            },
+            {
+                "nome": "Deraldo Francisco",
+                "foto": "./imgs/candidatos/al/deputades-estaduais/deraldo-francisco.jpg",
+                "numero": 80123,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChYPuuir87H/",
+                "entrevista": "https://youtu.be/KNZVLKikQ90?t=4307"
+            }
+        ]
+    },
+    "sc": {
+        "depFederal": [
+            {
+                "nome": "Júlia Andrade Ew",
+                "foto": "./imgs/candidatos/sc/deputades-federais/julia-andrade-ew.jpg",
+                "numero": 8000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgpGs70LFS9/"
+            },
+            {
+                "nome": "Kerexu",
+                "foto": "./imgs/candidatos/sc/deputades-federais/kerexu.jpg",
+                "numero": 5001,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/reel/Chzh8DzOVF5/",
+                "entrevista": "https://youtu.be/9Pg5k61M7o0?t=4",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/ChkMsyUlXtV/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Mandata Bem Viver",
+                "foto": "./imgs/candidatos/sc/deputades-estaduais/mandata-bem-viver.jpg",
+                "numero": 50999,
+                "partido": "PSOL-BEM-VIVER",
+                "movimentos": "./imgs/movimentos/psol+bem-viver.svg",
+                "saibaMais": "https://www.instagram.com/p/ChdOqH4j7cd/"
+            },
+            {
+                "nome": "Coletiva Raízes",
+                "foto": "./imgs/candidatos/sc/deputades-estaduais/coletiva-raizes.jpg",
+                "numero": 50222,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/CiP_bEjLzvx/",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/CiP_bEjLzvx/",
+                    "partido": "PCB"
+                }
+            }
+        ]
+    },
+    "df": {
+        "govEstadual": [
+            {
+                "nome": "Teodoro da Cruz",
+                "foto": "./imgs/candidatos/df/governadores/teodoro-da-cruz.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChK-LEbJfO-/"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Caio Sad",
+                "foto": "./imgs/candidatos/df/deputades-federais/caio-sad.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChLSIlqpWKN/"
+            },
+            {
+                "nome": "Mandato Bem Viver",
+                "foto": "./imgs/candidatos/df/deputades-federais/mandato-coletivo-bem-viver.jpg",
+                "numero": 5099,
+                "partido": "PSOL-BEM-VIVER",
+                "movimentos": "./imgs/movimentos/psol+bem-viver.svg",
+                "saibaMais": "https://www.instagram.com/reel/CibKBL0uv0a/"
+            },
+            {
+                "nome": "Ruth Venceremos",
+                "foto": "./imgs/candidatos/df/deputades-federais/ruth-venceremos.jpg",
+                "numero": 1361,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChXFgw5FVVP/",
+                "entrevista": "https://www.youtube.com/watch?v=z1280OvtZ0k"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Mandato Coletivo Olga",
+                "foto": "./imgs/candidatos/df/deputades-estaduais/mandato-coletivo-olga.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgATU0EgjBH/"
+            },
+            {
+                "nome": "Mandata Bem Viver",
+                "foto": "./imgs/candidatos/df/deputades-estaduais/mandata-bem-viver.jpg",
+                "numero": 50999,
+                "partido": "PSOL-BEM-VIVER",
+                "movimentos": "./imgs/movimentos/psol+bem-viver.svg",
+                "saibaMais": "https://www.instagram.com/p/CiiX1HnOWFE/"
+            }
+        ]
+    },
+    "rj": {
+        "govEstadual": [
+            {
+                "nome": "Juliete Pantoja",
+                "foto": "./imgs/candidatos/rj/governadores/juliete-pantoja.jpg",
+                "numero": 80,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgU3AF_pA9O/",
+                "entrevista": "https://youtu.be/1U4i5ElCOWQ"
+            },
+            {
+                "nome": "Eduardo Serra",
+                "foto": "./imgs/candidatos/rj/governadores/eduardo-serra.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/Cfr5KO5lxY-/",
+                "entrevista": "https://www.youtube.com/watch?v=r95fZ2Y6msM&t=130s"
+            }
+        ],
+        "senadores": [
+            {
+                "nome": "Raul Bittencourt",
+                "foto": "./imgs/candidatos/rj/senadores/raul.jpg",
+                "numero": 800,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgAq8Vlp_pN/",
+                "entrevista": "https://youtu.be/a2UUAWHXdQo?t=7"
+            },
+            {
+                "nome": "Hiran Roedel",
+                "foto": "./imgs/candidatos/rj/senadores/hiran-roedel.jpg",
+                "numero": 211,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CgIl2EJpzrZ/",
+                "entrevista": "https://youtu.be/6Cr4nldEmNw"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Mari Nogueira",
+                "foto": "./imgs/candidatos/rj/deputades-federais/mari-nogueira.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/Cgz5RcVpcHx/",
+                "entrevista": "https://www.instagram.com/p/Cha8ZmFpOsn/"
+            },
+            {
+                "nome": "Gustavo Pedro",
+                "foto": "./imgs/candidatos/rj/deputades-federais/gustavo-pedro.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChYS0YypO6-/"
+            },
+            {
+                "nome": "Gabriel Marques",
+                "foto": "./imgs/candidatos/rj/deputades-federais/gabriel-marques.jpg",
+                "numero": 2123,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChThgSGD6QB/",
+                "entrevista": "https://youtu.be/5zZooludl7Q"
+            },
+            {
+                "nome": "Glauber Braga",
+                "foto": "./imgs/candidatos/rj/deputades-federais/glauber-braga.jpg",
+                "numero": 5080,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/ChTfV0oMHjN/",
+                "entrevista": "https://youtu.be/KaQrU5mouFQ?t=52"
+            },
+            {
+                "nome": "Tarcisio Motta",
+                "foto": "./imgs/candidatos/rj/deputades-federais/tarcisio-motta.jpg",
+                "numero": 5000,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/p/ChU1pYAMpM6/",
+                "entrevista": "https://www.youtube.com/watch?v=i-23VO9tZ0o"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Giovanna Almeida",
+                "foto": "./imgs/candidatos/rj/deputades-estaduais/giovanna-almeida.jpg",
+                "numero": 80000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/CgxEBcSD9jN/"
+            },
+            {
+                "nome": "Chantal Campello",
+                "foto": "./imgs/candidatos/rj/deputades-estaduais/chantal.jpg",
+                "numero": 80180,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChZ-KM2gyPZ/"
+            },
+            {
+                "nome": "Gabriel GB",
+                "foto": "./imgs/candidatos/rj/deputades-estaduais/gabriel-gb.jpg",
+                "numero": 80123,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/Ce14cXfpug3/",
+                "entrevista": "https://www.youtube.com/watch?v=8XOYDfeVjJQ"
+            },
+            {
+                "nome": "Nathália Mozer",
+                "foto": "./imgs/candidatos/rj/deputades-estaduais/nathalia-mozer.jpg",
+                "numero": 21021,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChTsEe8umTM/"
+            },
+            {
+                "nome": "Thiago Coqueiro",
+                "foto": "./imgs/candidatos/rj/deputades-estaduais/thiago-coqueiro.jpg",
+                "numero": 21100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChapObfpwPJ/"
+            },
+            {
+                "nome": "Marina do MST",
+                "foto": "./imgs/candidatos/rj/deputades-estaduais/marina-do-mst.jpg",
+                "numero": 13713,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/p/ChUr5L1FvyZ/",
+                "entrevista": "https://www.youtube.com/watch?v=gsG2nUNC7H4"
+            }
+        ]
+    },
+    "sp": {
+        "govEstadual": [
+            {
+                "nome": "Carol Vigliar",
+                "foto": "./imgs/candidatos/sp/governadores/carol-vigliar.jpg",
+                "numero": 80,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChGJXmtgx1E/",
+                "entrevista": "https://youtu.be/H9iGItWnf_I?t=126"
+            },
+            {
+                "nome": "Gabriel Colombo",
+                "foto": "./imgs/candidatos/sp/governadores/gabriel-colombo.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChaFqa2vEa5/",
+                "entrevista": "https://www.youtube.com/watch?v=FWJ0ib-Gku8"
+            }
+        ],
+        "senadores": [
+            {
+                "nome": "Tito Bellini",
+                "foto": "./imgs/candidatos/sp/senadores/tito-bellini.jpg",
+                "numero": 211,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/titopcb/",
+                "entrevista": "https://youtu.be/ET8LA_sQVoU?t=658"
+            },
+            {
+                "nome": "Vivian Mendes",
+                "foto": "./imgs/candidatos/sp/senadores/vivian-mendes.jpg",
+                "numero": 800,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/Cgg81knrPWX/",
+                "entrevista": "https://youtu.be/rizvYv4uQBo?t=552"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Isis Mustafá",
+                "foto": "./imgs/candidatos/sp/deputades-federais/isis-mustafa.jpg",
+                "numero": 8000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChFyKtaP4fD/",
+                "entrevista": "https://youtu.be/QDOpsEaTkVM?t=466"
+            },
+            {
+                "nome": "Beatriz Barbiere",
+                "foto": "./imgs/candidatos/sp/deputades-federais/beatriz-barbiere.jpg",
+                "numero": 2110,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVdlGig023/"
+            },
+            {
+                "nome": "Christy Muniz",
+                "foto": "./imgs/candidatos/sp/deputades-federais/christy-muniz.jpg",
+                "numero": 2112,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVljjXv3kX/",
+                "entrevista": "https://www.youtube.com/watch?v=hxdo4Q2-bdg&t=748s"
+            },
+            {
+                "nome": "Camilo Terra",
+                "foto": "./imgs/candidatos/sp/deputades-federais/camilo-terra.jpg",
+                "numero": 2155,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CeEmS0gO3sC/",
+                "entrevista": "https://www.youtube.com/watch?v=3pyBK5hc_ic"
+            },
+            {
+                "nome": "Gabriel Marucci",
+                "foto": "./imgs/candidatos/sp/deputades-federais/gabriel-marucci.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChYMpw-j29z/",
+                "entrevista": "https://youtu.be/d1PIT-abAes?t=618"
+            },
+            {
+                "nome": "Max Marianek",
+                "foto": "./imgs/candidatos/sp/deputades-federais/max-marianek.jpg",
+                "numero": 2101,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CeUWgmVPlL1/"
+            },
+            {
+                "nome": "Eduardo Real",
+                "foto": "./imgs/candidatos/sp/deputades-federais/eduardo-real.jpg",
+                "numero": 2111,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVWAocvS_R/"
+            },
+            {
+                "nome": "Professor Renato",
+                "foto": "./imgs/candidatos/sp/deputades-federais/professor-renato.jpg",
+                "numero": 2122,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CgElkNnOKa0/"
+            },
+            {
+                "nome": "Claudimar Amaro Jabá",
+                "foto": "./imgs/candidatos/sp/deputades-federais/claudimar-amaro-jaba.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChXuRmIJA79/"
+            },
+            {
+                "nome": "Jules Saraiva",
+                "foto": "./imgs/candidatos/sp/deputades-federais/jules-saraiva.jpg",
+                "numero": 2133,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcb.sp/"
+            },
+            {
+                "nome": "Guilherme Boulos",
+                "foto": "./imgs/candidatos/sp/deputades-federais/guilherme-boulos.jpg",
+                "numero": 5010,
+                "partido": "PSOL-MTST",
+                "movimentos": "./imgs/movimentos/psol+mtst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChYAvkCpdVr/",
+                "entrevista": "https://youtu.be/IqXOEaSMgWc"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Amanda Bispo",
+                "foto": "./imgs/candidatos/sp/deputades-estaduais/amanda-bispo.jpg",
+                "numero": 80123,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChVfMFODfhX/",
+                "entrevista": "https://youtu.be/otesqP-AHy4?t=158"
+            },
+            {
+                "nome": "Ligia Mendes",
+                "foto": "./imgs/candidatos/sp/deputades-estaduais/ligia-mendes.jpg",
+                "numero": 80000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChU1wxQrfl5/"
+            },
+            {
+                "nome": "Gabriel Tavares",
+                "foto": "./imgs/candidatos/sp/deputades-estaduais/gabriel-tavares.jpg",
+                "numero": 21000,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/reel/Cha2WFrgjSo/",
+                "entrevista": "https://www.youtube.com/watch?v=F6dZZKVr5cs"
+            },
+            {
+                "nome": "Michel Viana",
+                "foto": "./imgs/candidatos/sp/deputades-estaduais/michel-viana.jpg",
+                "numero": 21001,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/CgKLCrvAE8Z/",
+                "entrevista": "https://www.youtube.com/watch?v=F6dZZKVr5cs"
+            },
+            {
+                "nome": "Fabi Medrado",
+                "foto": "./imgs/candidatos/sp/deputades-estaduais/fabi-medrado.jpg",
+                "numero": 21100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://web.facebook.com/Fabih.Medrado?_rdc=1&_rdr"
+            },
+            {
+                "nome": "Ediane Maria",
+                "foto": "./imgs/candidatos/sp/deputades-estaduais/ediane-maria.jpg",
+                "numero": 50110,
+                "partido": "PSOL-MTST",
+                "movimentos": "./imgs/movimentos/psol+mtst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChVbcYgF0FQ/",
+                "entrevista": "https://youtu.be/LaXa8RS2OpY?t=1532"
+            }
+        ]
+    },
+    "es": {
+        "govEstadual": [
+            {
+                "nome": "Cap. Vinícius Sousa",
+                "foto": "./imgs/candidatos/es/governadores/vinicius-sousa.jpg",
+                "numero": 16,
+                "partido": "PSTU",
+                "movimentos": "./imgs/movimentos/pstu.svg",
+                "saibaMais": "https://www.instagram.com/p/CiffU4ALnKU/",
+                "entrevista": "https://youtu.be/rCGeZorIxg0",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/Ch3V9ZVLSRs/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "senadores": [
+            {
+                "nome": "Gilberto & Ella",
+                "foto": "./imgs/candidatos/es/senadores/gilberto-campos.jpg",
+                "numero": 500,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/reel/CiJRc2Mjgv6/",
+                "entrevista": "https://youtu.be/KVnCRJ7urkw?t=43",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/Ch3V9ZVLSRs/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Ana Paula Rocha",
+                "foto": "./imgs/candidatos/es/deputades-federais/ana-paula-rocha.jpg",
+                "numero": 5013,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/reel/Cip4rntDcJx/",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/Ch3V9ZVLSRs/",
+                    "partido": "PCB"
+                }
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Camila Valadão",
+                "foto": "./imgs/candidatos/es/deputades-estaduais/camila-valadao.jpg",
+                "numero": 50180,
+                "partido": "PSOL",
+                "movimentos": "./imgs/movimentos/psol.svg",
+                "saibaMais": "https://www.instagram.com/reel/CiDIGfyj0-Z/",
+                "entrevista": "https://open.spotify.com/show/0qIWOxxO9JqNIGr1HxWOSP?go=1&sp_cid=90a9799f58863ebdac27052c6552d56c&utm_source=embed_player_p&utm_medium=desktop&nd=1",
+                "votoCritico": {
+                    "fonte": "https://www.instagram.com/p/Ch3V9ZVLSRs/",
+                    "partido": "PCB"
+                }
+            }
+        ]
+    },
+    "go": {
+        "govEstadual": [
+            {
+                "nome": "Professora Helga",
+                "foto": "./imgs/candidatos/go/governadores/professora-helga.jpg",
+                "numero": 21,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVYg31O4kk/",
+                "entrevista": "https://youtu.be/fLE3N8dTU1c?t=328"
+            },
+            {
+                "nome": "Professor Pantaleão",
+                "foto": "./imgs/candidatos/go/governadores/professor-pantaleao.jpg",
+                "numero": 80,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVXS1Eug-Z/",
+                "entrevista": "https://youtu.be/lVNNl1ZMgeA?t=823"
+            }
+        ],
+        "depFederal": [
+            {
+                "nome": "Laryssa Sampaio",
+                "foto": "./imgs/candidatos/go/deputades-federais/laryssa-sampaio.jpg",
+                "numero": 8080,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/CgSomBuunlX/"
+            },
+            {
+                "nome": "Andriele Qualhato",
+                "foto": "./imgs/candidatos/go/deputades-federais/andriele-qualhato.jpg",
+                "numero": 2100,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChW-B1NOCtx/"
+            },
+            {
+                "nome": "Arthur Ramos",
+                "foto": "./imgs/candidatos/go/deputades-federais/arthur-ramos.jpg",
+                "numero": 2121,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChU3IwJrLlO/"
+            },
+            {
+                "nome": "Valdir do MST",
+                "foto": "./imgs/candidatos/go/deputades-federais/valdir-do-mst.jpg",
+                "numero": 1311,
+                "partido": "PT-MST",
+                "movimentos": "./imgs/movimentos/pt+mst.svg",
+                "saibaMais": "https://www.instagram.com/reel/ChcR9klvTSh/",
+                "entrevista": "https://youtu.be/3-pwJAhLnC8"
+            }
+        ],
+        "depEstadual": [
+            {
+                "nome": "Letícia Scalabrini",
+                "foto": "./imgs/candidatos/go/deputades-estaduais/leticia-scalabrini.jpg",
+                "numero": 80000,
+                "partido": "UP",
+                "movimentos": "./imgs/movimentos/up.svg",
+                "saibaMais": "https://www.instagram.com/p/ChKwP8wuk2M/"
+            },
+            {
+                "nome": "Guilherme Martins",
+                "foto": "./imgs/candidatos/go/deputades-estaduais/guilherme-martins.jpg",
+                "numero": 21000,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/p/ChVGd3MLExf/"
+            },
+            {
+                "nome": "Thaysa Alves",
+                "foto": "./imgs/candidatos/go/deputades-estaduais/thaysa-alves.jpg",
+                "numero": 21021,
+                "partido": "PCB",
+                "movimentos": "./imgs/movimentos/pcb.svg",
+                "saibaMais": "https://www.instagram.com/pcb.go/"
+            }
+        ]
+    }
+}

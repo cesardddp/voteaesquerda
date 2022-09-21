@@ -1,0 +1,91 @@
+# This "input" configures a global authorization rule to enable public access to
+# all models in this schema. Learn more about authorization rules here: https://docs.amplify.aws/cli/graphql/authorization-rules
+input AMPLIFY { globalAuthRule: AuthRule = { allow: public } } # FOR TESTING ONLY!
+
+
+enum estados {
+GO
+ES
+SP
+RJ
+DF
+SC
+AL
+BA
+CE
+MA
+PB
+PE
+PI
+RN
+SE
+RS
+PR
+RR
+RO
+TO
+PA
+MG
+AC
+AP
+AM
+MT
+MS
+}
+
+
+type DepEstadual @model  {
+  id: ID!
+  nome: String
+  foto: String
+  numero: Int
+  partido: String
+  movimentos: String
+  saibaMais: String
+  entrevista: String
+  aprovado: Boolean
+}
+
+type Senado @model  {
+  id: ID!
+  nome: String
+  foto: String
+  numero: Int
+  partido: String
+  movimentos: String
+  saibaMais: String
+  entrevista: String
+  aprovado: Boolean
+}
+
+type GovEstadual @model  {
+  id: ID!
+  nome: String
+  foto: String
+  numero: Int
+  partido: String
+  movimentos: String
+  saibaMais: String
+  entrevista: String
+  aprovado: Boolean
+}
+
+type DepFederal @model  {
+  id: ID!
+  nome: String
+  foto: String
+  numero: Int
+  partido: String
+  movimentos: String
+  saibaMais: String
+  entrevista: String
+  aprovado: Boolean
+}
+
+type Estado @model  {
+  uf: estados! @primaryKey
+  depEstadual: [DepEstadual!] @hasMany
+  depFederal: [DepFederal!] @hasMany
+  govEstadual: [GovEstadual!] @hasMany
+  senadores: [Senado!] @hasMany
+}
