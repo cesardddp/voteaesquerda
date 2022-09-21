@@ -68,30 +68,36 @@ const tipo = ref<tipoEnum>()
 <template>
   <div class="container">
 
-    <div class="row justify-content-center">
 
-      <button @click="tipo=tipoEnum.FormDepE" type="button" class=" col-2 m-1 btn btn-primary" data-bs-toggle="modal"
-        data-bs-target="#exampleModal">
-        +FormDepE
-      </button>
-      <button @click="tipo=tipoEnum.FormDepF" type="button" class=" col-2 m-1 btn btn-primary" data-bs-toggle="modal"
-        data-bs-target="#exampleModal">
-        +FormDepF
-      </button>
-      <button @click="tipo=tipoEnum.GovEstadual" type="button" class=" col-2 m-1 btn btn-primary" data-bs-toggle="modal"
-        data-bs-target="#exampleModal">
-        +GovEstadual
-      </button>
-      <button @click="tipo=tipoEnum.Senado" type="button" class=" col-2 m-1 btn btn-primary" data-bs-toggle="modal"
-        data-bs-target="#exampleModal">
-        +Senado
-      </button>
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <button @click="tipo=tipoEnum.FormDepE" type="button" class="m-1 btn btn-primary" data-bs-toggle="modal"
+          data-bs-target="#exampleModal">
+          +FormDepE
+        </button>
+      </li>
+      <li class="nav-item">
+        <button @click="tipo=tipoEnum.FormDepF" type="button" class="m-1 btn btn-primary" data-bs-toggle="modal"
+          data-bs-target="#exampleModal">
+          +FormDepF
+        </button>
+      </li>
+      <li class="nav-item">
+        <button @click="tipo=tipoEnum.GovEstadual" type="button" class="m-1 btn btn-primary" data-bs-toggle="modal"
+          data-bs-target="#exampleModal">
+          +GovEstadual
+        </button>
+      </li>
+      <li class="nav-item">
+        <button @click="tipo=tipoEnum.Senado" type="button" class="m-1 btn btn-primary" data-bs-toggle="modal"
+          data-bs-target="#exampleModal">
+          +Senado
+        </button>
+      </li>
+    </ul>
 
-    </div>
-    <div class="row justify-content-center m-5">
-
-      <ul class=" col-3 list-group list-group-horizontal">
-
+    <div class="d-flex justify-content-center m-5">
+      <ul class="list-group list-group-horizontal">
         <div v-for="estados_sliced in estadosSliceSM">
           <li v-for="estado in estados_sliced" class="list-group-item">
             <button class="btn btn-dark btn-sm" @click="getEstado(estado)">
@@ -102,15 +108,29 @@ const tipo = ref<tipoEnum>()
       </ul>
     </div>
 
-    <h3>depEstadual</h3>
-    {{estado_selecionado.depEstadual?.items}}
-    <h3>depFederal</h3>
-    {{estado_selecionado.depFederal?.items}}
-    <h3>govEstadual</h3>
-    {{estado_selecionado.govEstadual?.items}}
-    <h3>senadores</h3>
-    {{estado_selecionado.senadores?.items}}
+    <div class="d-flex flex-column align-items-center m-5">
+      <section>
 
+        <h3 class="text-center">depEstadual</h3>
+        {{estado_selecionado.depEstadual?.items}}
+      </section>
+      <section>
+
+        <h3 class="text-center">depFederal</h3>
+        {{estado_selecionado.depFederal?.items}}
+      </section>
+      <section>
+
+        <h3 class="text-center">govEstadual</h3>
+        {{estado_selecionado.govEstadual?.items}}
+      </section>
+      <section>
+
+        <h3 class="text-center">senadores</h3>
+        {{estado_selecionado.senadores?.items}}
+      </section>
+
+    </div>
 
     <!-- Button trigger modal -->
 
